@@ -1,0 +1,1 @@
+Hello, I'm Vinh, currently a sophomore studying for my Bachelor's degree in the University of Massachussetts, Amherst. My interests lie in game making, machine learning, and simply just algorithms/competitive programming.
